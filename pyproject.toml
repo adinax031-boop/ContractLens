@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "contractlens"
+version = "0.1.0"
+description = "Directional OpenAPI compatibility analysis with offline visual reports"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [{name = "ContractLens contributors"}]
+keywords = ["openapi", "api", "compatibility", "ci"]
+classifiers = ["Programming Language :: Python :: 3", "Operating System :: OS Independent"]
+
+[project.scripts]
+contractlens = "contractlens.cli:main"
+
+[project.urls]
+Repository = "https://github.com/adinax031-boop/ContractLens"
+
+[tool.setuptools.packages.find]
+include = ["contractlens*"]
