@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="ContractLens: Change with confidence">
+<defs><linearGradient id="bg"><stop stop-color="#101b30"/><stop offset="1" stop-color="#0b1220"/></linearGradient></defs>
+<rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+<circle cx="1010" cy="180" r="108" fill="none" stroke="#293c53" stroke-width="2"/><circle cx="1010" cy="180" r="72" fill="none" stroke="#79e5c0" stroke-width="3"/><path d="M976 180l23 23 48-50" fill="none" stroke="#79e5c0" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="70" y="93" fill="#79e5c0" font-family="sans-serif" font-size="16" letter-spacing="4">API COMPATIBILITY · MADE VISIBLE</text>
+<text x="65" y="184" fill="#eef3fa" font-family="sans-serif" font-weight="700" font-size="74">ContractLens</text>
+<text x="70" y="242" fill="#a0aec3" font-family="sans-serif" font-size="25">Change with confidence.</text>
+<text x="70" y="295" fill="#93b7fb" font-family="monospace" font-size="17">COMPARE → UNDERSTAND → RELEASE</text>
+</svg>
